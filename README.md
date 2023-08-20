@@ -1,0 +1,2 @@
+# Raymond-Trades
+Discord Bot
