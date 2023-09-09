@@ -1,38 +1,3 @@
- *
- * Discord bot that offers a wide range of services related to cryptocurrencies
- *
- * No parameters on start except -d for developer mode (disables periodic caching)
- *
- * If you like this service, consider donating to show support :)
- * ETH address: 0x169381506870283cbABC52034E4ECc123f3FAD02
- *
- *
- *                        Hello from Minnesota USA!
- *                              ⋆⁺₊⋆ ☾ ⋆⁺₊⋆
- *
- * ------------------------------------------------------------------------ */
-
-
-
-// -------------------------------------------
-//       IMPORTANT STEPS FOR FIRST RUN
-// -------------------------------------------
-
-// 1. Make sure you have node.js and npm installed and ready to use. Node version 14.x or newer is required.
-// 2. Open a terminal in the project directory and run the command "npm install" to install all required dependencies.
-// 3. Create a keys.api file in the common folder to include all of your own keys, tokens, and passwords that are needed for normal operation of all services.
-//    You can find the template keys.api file to reference in the "How to set up keys file" text file within the docs folder. Just fill in the blanks!
-// 4. Head down toward the bottom of this file and take note of the comment in the getChart function. You may need to comment out that executable path for 
-//    chromium depending on your environment. The commend there tells you whether you need to do it or not. (charts may not work if you don't check this!)
-//    For details on how to structure this file and what you need in it, check the "How to set up keys file" guide in the docs folder.
-// 5. Set up your PostgreSQL database according to the schema defined in the docs folder.
-// 6. Head into the docs folder and check the fix guide for the graviex package and apply that fix.
-// 7. You are now ready to start the bot! Go ahead and run this file to start up. EX: "node main.js"
-//    If you have any questions or issues, feel free to contact me in the support discord server and I'll try to help you out. Link: https://discordapp.com/invite/VWNUbR5
-
-// Alright the hard part is over. Carry on :)
-
-
 // -------------------------------------------
 // -------------------------------------------
 //
